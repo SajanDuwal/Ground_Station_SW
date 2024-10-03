@@ -1,0 +1,3 @@
+SatelliteName,NoradID,CW beacn,Uplink,Downlink,Remark,Folder name (len<8)
+Slipper2Sat,0,437375000,435313000,437375000,APN-3 Nepal,S2S
+MunalSat,1,401375000,402375000,401375000,APN-2 Nepal,Munal

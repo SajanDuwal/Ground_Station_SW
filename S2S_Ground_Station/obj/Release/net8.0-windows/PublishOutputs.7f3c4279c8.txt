@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\S2S_Ground_Station\S2S_Ground_Station\bin\Release\net8.0-windows\publish\S2S_Ground_Station.exe
+C:\Users\Dell\source\repos\S2S_Ground_Station\S2S_Ground_Station\bin\Release\net8.0-windows\publish\S2S_Ground_Station.dll
+C:\Users\Dell\source\repos\S2S_Ground_Station\S2S_Ground_Station\bin\Release\net8.0-windows\publish\S2S_Ground_Station.deps.json
+C:\Users\Dell\source\repos\S2S_Ground_Station\S2S_Ground_Station\bin\Release\net8.0-windows\publish\S2S_Ground_Station.runtimeconfig.json
+C:\Users\Dell\source\repos\S2S_Ground_Station\S2S_Ground_Station\bin\Release\net8.0-windows\publish\S2S_Ground_Station.dll.config
+C:\Users\Dell\source\repos\S2S_Ground_Station\S2S_Ground_Station\bin\Release\net8.0-windows\publish\S2S_Ground_Station.pdb
+C:\Users\Dell\source\repos\S2S_Ground_Station\S2S_Ground_Station\bin\Release\net8.0-windows\publish\System.IO.Ports.dll
+C:\Users\Dell\source\repos\S2S_Ground_Station\S2S_Ground_Station\bin\Release\net8.0-windows\publish\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Dell\source\repos\S2S_Ground_Station\S2S_Ground_Station\bin\Release\net8.0-windows\publish\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Dell\source\repos\S2S_Ground_Station\S2S_Ground_Station\bin\Release\net8.0-windows\publish\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Dell\source\repos\S2S_Ground_Station\S2S_Ground_Station\bin\Release\net8.0-windows\publish\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Dell\source\repos\S2S_Ground_Station\S2S_Ground_Station\bin\Release\net8.0-windows\publish\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Dell\source\repos\S2S_Ground_Station\S2S_Ground_Station\bin\Release\net8.0-windows\publish\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\Dell\source\repos\S2S_Ground_Station\S2S_Ground_Station\bin\Release\net8.0-windows\publish\runtimes\win\lib\net8.0\System.IO.Ports.dll

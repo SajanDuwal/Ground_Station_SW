@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="S2S_Ground_Station.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="freqPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">./</Value>
+    </Setting>
+    <Setting Name="latitude" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">27.62</Value>
+    </Setting>
+    <Setting Name="longitude" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">84.54</Value>
+    </Setting>
+    <Setting Name="altitude" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">212</Value>
+    </Setting>
+    <Setting Name="saveFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">./</Value>
+    </Setting>
+    <Setting Name="azHome" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="elHome" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">90</Value>
+    </Setting>
+    <Setting Name="callsign" Type="System.String" Scope="User">
+      <Value Profile="(Default)">_ _ _ _ _ _</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
